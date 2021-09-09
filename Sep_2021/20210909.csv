@@ -203,3 +203,4 @@
 2021-09-09 03:06:00,ecarlesi,url,https://tentrep.one/,#phishing,https://twitter.com/ecarlesi/status/1435801634194472963
 2021-09-09 03:10:02,HeliosCert,ip,49.206.51.10,#malware,https://twitter.com/HeliosCert/status/1435802650742775809
 2021-09-09 03:10:02,HeliosCert,sha256,ba682c8d08288b64facd387af1ccd0fca134ca0d006f1509e98d9393e759a736,#malware,https://twitter.com/HeliosCert/status/1435802650742775809
+2021-09-09 03:10:54,ecarlesi,url,http://lux-vpn.one/luxvpn_win_v1.19.7.zip,#malware,https://twitter.com/ecarlesi/status/1435802868699783170

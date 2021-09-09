@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 01:33:36 (UTC)</th>
+		<th colspan=4>2021-09-09 01:34:39 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 52 | 1755 | 7875 | 8176 |
+| **:link: URLs** | 57 | 1760 | 7880 | 8181 |
 | **:globe_with_meridians: Domains** | 10 | 291 | 810 | 811 |
-| **:triangular_flag_on_post: IPs** | 46 | 1288 | 5047 | 5211 |
+| **:triangular_flag_on_post: IPs** | 54 | 1296 | 5055 | 5219 |
 | **:1234: SHA256** | 0 | 710 | 2428 | 2463 |
 | **:1234: MD5** | 1 | 40 | 263 | 270 |
 
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 79 | 2338 | 10398 | 10802 |
+| **#phishing** | 92 | 2351 | 10411 | 10815 |
 | **#scam** | 2 | 318 | 1122 | 1138 |
 | **#malware** | 6 | 458 | 2495 | 2550 |
 | **#ransomware** | 0 | 11 | 94 | 97 |
@@ -102,13 +102,13 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
-| **#1** | [romonlyht](https://twitter.com/romonlyht) | 32 |
-| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 22 |
+| **#1** | [romonlyht](https://twitter.com/romonlyht) | 41 |
+| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 23 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 18 |
 | **#4** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 17 |
 | **#5** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
-| **#6** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
-| **#7** | [secbird1](https://twitter.com/secbird1) | 2 |
+| **#6** | [secbird1](https://twitter.com/secbird1) | 5 |
+| **#7** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
 | **#8** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
 | **#9** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 2 |
 | **#10** | [PhishStats](https://twitter.com/PhishStats) | 2 |

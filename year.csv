@@ -17070,3 +17070,6 @@
 2021-09-09 03:42:16,secbird1,ip,216.127.187.113,#phishing,https://twitter.com/secbird1/status/1435810761507434505
 2021-09-09 03:43:58,ecarlesi,url,https://mybrag.one/,#phishing,https://twitter.com/ecarlesi/status/1435811191348158468
 2021-09-09 03:44:02,ecarlesi,url,http://brri4d.biz/m/downloads/download.apk,#malware,https://twitter.com/ecarlesi/status/1435811208913899524
+2021-09-09 03:44:45,JAMESWT_MHT,url,https://cticonnectt.com/rexify.php,#phishing,https://twitter.com/JAMESWT_MHT/status/1435811387255791621
+2021-09-09 03:45:02,HeliosCert,ip,131.72.220.126,#malware,https://twitter.com/HeliosCert/status/1435811458189758464
+2021-09-09 03:45:02,HeliosCert,sha256,88f6f20e3d2851adc879f033466ff3bdfa50e6975a1dc3a51da1bb55266994b5,#malware,https://twitter.com/HeliosCert/status/1435811458189758464

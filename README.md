@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 03:44:55 (UTC)</th>
+		<th colspan=4>2021-09-09 03:45:59 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,19 +72,19 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 135 | 1838 | 7958 | 8259 |
+| **:link: URLs** | 136 | 1839 | 7959 | 8260 |
 | **:globe_with_meridians: Domains** | 12 | 293 | 812 | 813 |
-| **:triangular_flag_on_post: IPs** | 100 | 1342 | 5101 | 5265 |
-| **:1234: SHA256** | 2 | 712 | 2430 | 2465 |
+| **:triangular_flag_on_post: IPs** | 101 | 1343 | 5102 | 5266 |
+| **:1234: SHA256** | 3 | 713 | 2431 | 2466 |
 | **:1234: MD5** | 1 | 40 | 263 | 270 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 206 | 2465 | 10525 | 10929 |
+| **#phishing** | 207 | 2466 | 10526 | 10930 |
 | **#scam** | 6 | 322 | 1126 | 1142 |
-| **#malware** | 18 | 470 | 2507 | 2562 |
+| **#malware** | 20 | 472 | 2509 | 2564 |
 | **#ransomware** | 0 | 11 | 94 | 97 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 147 | 633 | 634 |
@@ -108,8 +108,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 18 |
 | **#5** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 17 |
 | **#6** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
-| **#7** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
-| **#8** | [HeliosCert](https://twitter.com/HeliosCert) | 4 |
+| **#7** | [HeliosCert](https://twitter.com/HeliosCert) | 6 |
+| **#8** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
 | **#9** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 4 |
 | **#10** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
 

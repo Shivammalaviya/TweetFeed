@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 00:35:54 (UTC)</th>
+		<th colspan=4>2021-09-09 00:36:57 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -74,7 +74,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 39 | 1742 | 7862 | 8163 |
 | **:globe_with_meridians: Domains** | 4 | 285 | 804 | 805 |
-| **:triangular_flag_on_post: IPs** | 23 | 1265 | 5024 | 5188 |
+| **:triangular_flag_on_post: IPs** | 29 | 1271 | 5030 | 5194 |
 | **:1234: SHA256** | 0 | 710 | 2428 | 2463 |
 | **:1234: MD5** | 1 | 40 | 263 | 270 |
 
@@ -90,7 +90,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#AgentTesla** | 0 | 147 | 633 | 634 |
 | **#Alienbot** | 0 | 11 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
-| **#CobaltStrike** | 13 | 504 | 1076 | 1093 |
+| **#CobaltStrike** | 19 | 510 | 1082 | 1099 |
 | **#Dridex** | 0 | 319 | 373 | 373 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 20 | 109 | 109 |
@@ -103,9 +103,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 18 |
-| **#2** | [romonlyht](https://twitter.com/romonlyht) | 14 |
-| **#3** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
-| **#4** | [drb_ra](https://twitter.com/drb_ra) | 9 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 15 |
+| **#3** | [romonlyht](https://twitter.com/romonlyht) | 14 |
+| **#4** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#5** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
 | **#6** | [secbird1](https://twitter.com/secbird1) | 2 |
 | **#7** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |

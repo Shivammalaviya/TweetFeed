@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 04:04:54 (UTC)</th>
+		<th colspan=4>2021-09-09 04:05:57 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -74,8 +74,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 156 | 1859 | 7979 | 8280 |
 | **:globe_with_meridians: Domains** | 12 | 304 | 823 | 824 |
-| **:triangular_flag_on_post: IPs** | 101 | 1343 | 5102 | 5266 |
-| **:1234: SHA256** | 3 | 713 | 2431 | 2466 |
+| **:triangular_flag_on_post: IPs** | 102 | 1344 | 5103 | 5267 |
+| **:1234: SHA256** | 4 | 714 | 2432 | 2467 |
 | **:1234: MD5** | 1 | 40 | 263 | 270 |
 
 #### Tags
@@ -84,7 +84,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 227 | 2486 | 10546 | 10950 |
 | **#scam** | 25 | 341 | 1145 | 1161 |
-| **#malware** | 20 | 472 | 2509 | 2564 |
+| **#malware** | 22 | 474 | 2511 | 2566 |
 | **#ransomware** | 0 | 11 | 94 | 97 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 147 | 633 | 634 |
@@ -108,8 +108,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#4** | [secbird1](https://twitter.com/secbird1) | 18 |
 | **#5** | [drb_ra](https://twitter.com/drb_ra) | 18 |
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 17 |
-| **#7** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
-| **#8** | [HeliosCert](https://twitter.com/HeliosCert) | 6 |
+| **#7** | [HeliosCert](https://twitter.com/HeliosCert) | 8 |
+| **#8** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
 | **#9** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
 | **#10** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 4 |
 

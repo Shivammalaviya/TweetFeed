@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 04:45:58 (UTC)</th>
+		<th colspan=4>2021-09-09 04:47:01 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,7 +72,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 214 | 1917 | 8037 | 8338 |
+| **:link: URLs** | 218 | 1921 | 8041 | 8342 |
 | **:globe_with_meridians: Domains** | 14 | 306 | 825 | 826 |
 | **:triangular_flag_on_post: IPs** | 129 | 1371 | 5130 | 5294 |
 | **:1234: SHA256** | 5 | 715 | 2433 | 2468 |
@@ -82,8 +82,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 300 | 2559 | 10619 | 11023 |
-| **#scam** | 27 | 343 | 1147 | 1163 |
+| **#phishing** | 304 | 2563 | 10623 | 11027 |
+| **#scam** | 29 | 345 | 1149 | 1165 |
 | **#malware** | 25 | 477 | 2514 | 2569 |
 | **#ransomware** | 0 | 11 | 94 | 97 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -103,10 +103,10 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 135 |
-| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 96 |
+| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 97 |
 | **#3** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 26 |
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 25 |
-| **#5** | [pingineer_jp](https://twitter.com/pingineer_jp) | 19 |
+| **#5** | [pingineer_jp](https://twitter.com/pingineer_jp) | 21 |
 | **#6** | [secbird1](https://twitter.com/secbird1) | 18 |
 | **#7** | [HeliosCert](https://twitter.com/HeliosCert) | 10 |
 | **#8** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |

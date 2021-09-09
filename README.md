@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 03:50:11 (UTC)</th>
+		<th colspan=4>2021-09-09 03:51:15 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,7 +72,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 141 | 1844 | 7964 | 8265 |
+| **:link: URLs** | 146 | 1849 | 7969 | 8270 |
 | **:globe_with_meridians: Domains** | 12 | 293 | 812 | 813 |
 | **:triangular_flag_on_post: IPs** | 101 | 1343 | 5102 | 5266 |
 | **:1234: SHA256** | 3 | 713 | 2431 | 2466 |
@@ -82,8 +82,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 212 | 2471 | 10531 | 10935 |
-| **#scam** | 10 | 326 | 1130 | 1146 |
+| **#phishing** | 217 | 2476 | 10536 | 10940 |
+| **#scam** | 15 | 331 | 1135 | 1151 |
 | **#malware** | 20 | 472 | 2509 | 2564 |
 | **#ransomware** | 0 | 11 | 94 | 97 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -107,11 +107,11 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#3** | [secbird1](https://twitter.com/secbird1) | 18 |
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 18 |
 | **#5** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 17 |
-| **#6** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
-| **#7** | [HeliosCert](https://twitter.com/HeliosCert) | 6 |
-| **#8** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
-| **#9** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 4 |
-| **#10** | [pingineer_jp](https://twitter.com/pingineer_jp) | 4 |
+| **#6** | [pingineer_jp](https://twitter.com/pingineer_jp) | 9 |
+| **#7** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
+| **#8** | [HeliosCert](https://twitter.com/HeliosCert) | 6 |
+| **#9** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
+| **#10** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 4 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.

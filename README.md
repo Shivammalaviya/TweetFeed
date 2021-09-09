@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 04:08:04 (UTC)</th>
+		<th colspan=4>2021-09-09 04:09:07 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 157 | 1860 | 7980 | 8281 |
-| **:globe_with_meridians: Domains** | 12 | 304 | 823 | 824 |
-| **:triangular_flag_on_post: IPs** | 102 | 1344 | 5103 | 5267 |
+| **:link: URLs** | 159 | 1862 | 7982 | 8283 |
+| **:globe_with_meridians: Domains** | 14 | 306 | 825 | 826 |
+| **:triangular_flag_on_post: IPs** | 103 | 1345 | 5104 | 5268 |
 | **:1234: SHA256** | 4 | 714 | 2432 | 2467 |
 | **:1234: MD5** | 1 | 40 | 263 | 270 |
 
@@ -90,7 +90,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#AgentTesla** | 0 | 147 | 633 | 634 |
 | **#Alienbot** | 0 | 11 | 72 | 72 |
 | **#BazarLoader** | 6 | 25 | 46 | 46 |
-| **#CobaltStrike** | 22 | 524 | 1096 | 1113 |
+| **#CobaltStrike** | 27 | 529 | 1101 | 1118 |
 | **#Dridex** | 0 | 319 | 373 | 373 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 1 | 21 | 110 | 110 |
@@ -110,8 +110,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#6** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 17 |
 | **#7** | [HeliosCert](https://twitter.com/HeliosCert) | 8 |
 | **#8** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
-| **#9** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
-| **#10** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 4 |
+| **#9** | [_brettfitz](https://twitter.com/_brettfitz) | 5 |
+| **#10** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.

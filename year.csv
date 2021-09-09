@@ -17107,3 +17107,8 @@
 2021-09-09 04:05:02,HeliosCert,ip,82.127.241.233,#malware,https://twitter.com/HeliosCert/status/1435816491761422344
 2021-09-09 04:05:02,HeliosCert,sha256,f6061ebefc627049dd916747d144ad5d4518605dd7a19fb46f949a5410f8c6b4,#malware,https://twitter.com/HeliosCert/status/1435816491761422344
 2021-09-09 04:06:03,ecarlesi,url,https://uhaveme.xyz/itop.zip,#phishing,https://twitter.com/ecarlesi/status/1435816746431258626
+2021-09-09 04:07:49,_brettfitz,url,https://jquery-3.3.1.min.js,#CobaltStrike,https://twitter.com/_brettfitz/status/1435817190373085184
+2021-09-09 04:07:49,_brettfitz,url,https://jquery-3.3.2.min.js,#CobaltStrike,https://twitter.com/_brettfitz/status/1435817190373085184
+2021-09-09 04:07:49,_brettfitz,domain,nopostings.com,#CobaltStrike,https://twitter.com/_brettfitz/status/1435817190373085184
+2021-09-09 04:07:49,_brettfitz,domain,usb-tnt.com,#CobaltStrike,https://twitter.com/_brettfitz/status/1435817190373085184
+2021-09-09 04:07:49,_brettfitz,ip,107.181.161.194,#CobaltStrike,https://twitter.com/_brettfitz/status/1435817190373085184

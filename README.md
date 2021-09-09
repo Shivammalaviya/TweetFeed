@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 04:12:16 (UTC)</th>
+		<th colspan=4>2021-09-09 04:13:19 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 160 | 1863 | 7983 | 8284 |
+| **:link: URLs** | 161 | 1864 | 7984 | 8285 |
 | **:globe_with_meridians: Domains** | 14 | 306 | 825 | 826 |
-| **:triangular_flag_on_post: IPs** | 103 | 1345 | 5104 | 5268 |
+| **:triangular_flag_on_post: IPs** | 104 | 1346 | 5105 | 5269 |
 | **:1234: SHA256** | 4 | 714 | 2432 | 2467 |
 | **:1234: MD5** | 1 | 40 | 263 | 270 |
 
@@ -82,8 +82,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 229 | 2488 | 10548 | 10952 |
-| **#scam** | 25 | 341 | 1145 | 1161 |
+| **#phishing** | 231 | 2490 | 10550 | 10954 |
+| **#scam** | 27 | 343 | 1147 | 1163 |
 | **#malware** | 22 | 474 | 2511 | 2566 |
 | **#ransomware** | 0 | 11 | 94 | 97 |
 | **#banker** | 0 | 0 | 0 | 0 |
@@ -111,7 +111,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#7** | [HeliosCert](https://twitter.com/HeliosCert) | 8 |
 | **#8** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
 | **#9** | [_brettfitz](https://twitter.com/_brettfitz) | 5 |
-| **#10** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
+| **#10** | [phishunt_io](https://twitter.com/phishunt_io) | 4 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.

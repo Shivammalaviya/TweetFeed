@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 03:40:43 (UTC)</th>
+		<th colspan=4>2021-09-09 03:41:46 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,7 +72,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 130 | 1833 | 7953 | 8254 |
+| **:link: URLs** | 132 | 1835 | 7955 | 8256 |
 | **:globe_with_meridians: Domains** | 12 | 293 | 812 | 813 |
 | **:triangular_flag_on_post: IPs** | 99 | 1341 | 5100 | 5264 |
 | **:1234: SHA256** | 2 | 712 | 2430 | 2465 |
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 201 | 2460 | 10520 | 10924 |
+| **#phishing** | 203 | 2462 | 10522 | 10926 |
 | **#scam** | 6 | 322 | 1126 | 1142 |
 | **#malware** | 17 | 469 | 2506 | 2561 |
 | **#ransomware** | 0 | 11 | 94 | 97 |
@@ -103,10 +103,10 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [romonlyht](https://twitter.com/romonlyht) | 110 |
-| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 54 |
+| **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 55 |
 | **#3** | [drb_ra](https://twitter.com/drb_ra) | 18 |
 | **#4** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 17 |
-| **#5** | [secbird1](https://twitter.com/secbird1) | 15 |
+| **#5** | [secbird1](https://twitter.com/secbird1) | 16 |
 | **#6** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
 | **#7** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
 | **#8** | [HeliosCert](https://twitter.com/HeliosCert) | 4 |

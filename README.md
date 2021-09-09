@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 00:36:57 (UTC)</th>
+		<th colspan=4>2021-09-09 00:38:00 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 39 | 1742 | 7862 | 8163 |
+| **:link: URLs** | 40 | 1743 | 7863 | 8164 |
 | **:globe_with_meridians: Domains** | 4 | 285 | 804 | 805 |
-| **:triangular_flag_on_post: IPs** | 29 | 1271 | 5030 | 5194 |
+| **:triangular_flag_on_post: IPs** | 35 | 1277 | 5036 | 5200 |
 | **:1234: SHA256** | 0 | 710 | 2428 | 2463 |
 | **:1234: MD5** | 1 | 40 | 263 | 270 |
 
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 52 | 2311 | 10371 | 10775 |
+| **#phishing** | 56 | 2315 | 10375 | 10779 |
 | **#scam** | 2 | 318 | 1122 | 1138 |
 | **#malware** | 0 | 452 | 2489 | 2544 |
 | **#ransomware** | 0 | 11 | 94 | 97 |
@@ -90,7 +90,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#AgentTesla** | 0 | 147 | 633 | 634 |
 | **#Alienbot** | 0 | 11 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
-| **#CobaltStrike** | 19 | 510 | 1082 | 1099 |
+| **#CobaltStrike** | 22 | 513 | 1085 | 1102 |
 | **#Dridex** | 0 | 319 | 373 | 373 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 20 | 109 | 109 |
@@ -103,8 +103,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | Number | User | IOCs | 
 | :--- | :---: | :---: | 
 | **#1** | [ecarlesi](https://twitter.com/ecarlesi) | 18 |
-| **#2** | [drb_ra](https://twitter.com/drb_ra) | 15 |
-| **#3** | [romonlyht](https://twitter.com/romonlyht) | 14 |
+| **#2** | [drb_ra](https://twitter.com/drb_ra) | 18 |
+| **#3** | [romonlyht](https://twitter.com/romonlyht) | 17 |
 | **#4** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 13 |
 | **#5** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
 | **#6** | [secbird1](https://twitter.com/secbird1) | 2 |

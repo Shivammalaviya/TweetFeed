@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-09 03:19:43 (UTC)</th>
+		<th colspan=4>2021-09-09 03:20:46 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -73,18 +73,18 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 117 | 1820 | 7940 | 8241 |
-| **:globe_with_meridians: Domains** | 11 | 292 | 811 | 812 |
-| **:triangular_flag_on_post: IPs** | 91 | 1333 | 5092 | 5256 |
-| **:1234: SHA256** | 1 | 711 | 2429 | 2464 |
+| **:globe_with_meridians: Domains** | 12 | 293 | 812 | 813 |
+| **:triangular_flag_on_post: IPs** | 93 | 1335 | 5094 | 5258 |
+| **:1234: SHA256** | 2 | 712 | 2430 | 2465 |
 | **:1234: MD5** | 1 | 40 | 263 | 270 |
 
 #### Tags
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 181 | 2440 | 10500 | 10904 |
-| **#scam** | 4 | 320 | 1124 | 1140 |
-| **#malware** | 15 | 467 | 2504 | 2559 |
+| **#phishing** | 183 | 2442 | 10502 | 10906 |
+| **#scam** | 6 | 322 | 1126 | 1142 |
+| **#malware** | 17 | 469 | 2506 | 2561 |
 | **#ransomware** | 0 | 11 | 94 | 97 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 0 | 147 | 633 | 634 |
@@ -109,9 +109,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#5** | [secbird1](https://twitter.com/secbird1) | 15 |
 | **#6** | [ASEC_Analysis](https://twitter.com/ASEC_Analysis) | 6 |
 | **#7** | [Max_Mal_](https://twitter.com/Max_Mal_) | 4 |
-| **#8** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
-| **#9** | [ShadowChasing1](https://twitter.com/ShadowChasing1) | 2 |
-| **#10** | [PhishStats](https://twitter.com/PhishStats) | 2 |
+| **#8** | [HeliosCert](https://twitter.com/HeliosCert) | 4 |
+| **#9** | [CardanoPhishing](https://twitter.com/CardanoPhishing) | 4 |
+| **#10** | [phishunt_io](https://twitter.com/phishunt_io) | 2 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
